@@ -14,6 +14,5 @@ Features:
 - Review of each question with user-selected answers.
 
 Technologies:
-React
-useState, useEffect hooks
-JavaScript ES6+
+
+React useState, useEffect hooks, JavaScript ES6+
